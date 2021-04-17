@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+.head {
+    color: #000;
+    font-size: 82px;
+}
+
+.banner {
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.banner-btn {
+    font-size: 30px;
+    border: none;
+    background-color: grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border-radius: 20px;
+    margin: 10px
+}
+
+.banner-btn:hover {
+    background-color: #000;
+    color: white;
+}
+
+.sec-btn {
+    background-color: rgb(167, 167, 4);
+    color: #fff;
+}
+
+.sec-btn:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.banner .content-area {
+    max-width: 50%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
